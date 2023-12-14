@@ -9,7 +9,7 @@
   <tr>
     <td align="center" width="96">
       <a href="https://app.hackthebox.com/">
-        <img src="https://www.hackthebox.com/images/logo-htb.svg" width="70" height="68" alt="hackthebox" />
+        <img src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/l72z2dydduvghanfmvgz" width="70" height="68" alt="hackthebox" />
       </a>
       <br>HackTheBox
     </td>
@@ -31,13 +31,6 @@
         <img src="https://cdn-yeswehack.com/user/avatar/default_image" width="58" height="58" alt="codinggame" />
       </a>
       <br>YesWeHack
-    </td>
-    </td>
-      <td align="center" width="96">
-      <a href="https://www.codingame.com/">
-        <img src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg" width="58" height="58" alt="codinggame" />
-      </a>
-      <br>CodinGame
     </td>
     
 </table>
