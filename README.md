@@ -1,8 +1,8 @@
 <img  width="150" align="right" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif">
 
 - 👋 Hi, I’m Nico
-- 💻 Apprentice developer and cybersecurity students
-- 👀 I’m interested in programming/hacking 
+- 💻 Cybersecurity students specialist in Blue Team
+- 👀 I’m interested in hacking
 - 🌱 I’m currently learning hacking and some cool programming stuff
 
 <table>
