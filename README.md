@@ -9,7 +9,7 @@
   <tr>
     <td align="center" width="96">
       <a href="https://app.hackthebox.com/">
-        <img src="https://pbs.twimg.com/profile_images/1610589411682418690/GBT-ZJlC_400x400.jpg" width="70" height="68" alt="hackthebox" />
+        <img src="https://www.hackthebox.com/images/logo-htb.svg" width="70" height="68" alt="hackthebox" />
       </a>
       <br>HackTheBox
     </td>
