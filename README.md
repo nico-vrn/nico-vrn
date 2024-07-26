@@ -3,6 +3,7 @@
 - 👋 Hi, I’m Nico
 - 💻 Cybersecurity students specialist in Blue Team
 - 👀 I’m interested in OSINT
+- 💻 I regularly develop new cool programs
 - 🌱 I’m currently learning hacking and some cool programming stuff
 
 <table>
