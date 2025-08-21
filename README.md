@@ -28,7 +28,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://zephyrwatch.fr">
-        <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="48" height="48" alt="Zephyr Watch" />
+        <img src="https://zephyrwatch.fr/logo.png" width="48" height="48" alt="Zephyr Watch" />
       </a>
       <br>Zephyr Watch
     </td>
