@@ -3,7 +3,7 @@
 # 👋 Hi, I’m Nico  
 
 - 💻 Cybersecurity & AI consultant, founder of Zephyr Watch  
-- 🚀 Specialized in DevSecOps, forensic, pentests & security audits  
+- 🚀 Specialized in AI automatisation, DevSecOps, forensic, pentests & security audits  
 - 📊 Passionate about AI, automation & pragmatic cybersecurity  
 - 🎤 Trainer & speaker on AI and cybersecurity topics  
 - 🌍 Based in Grenoble, France  
