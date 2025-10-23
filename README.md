@@ -28,7 +28,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://zephyrwatch.fr">
-        <img src="https://zephyrwatch.fr/logo.png" width="48" height="48" alt="Zephyr Watch" />
+        <img src="https://zephyrwatch.fr/images/logo_ZW.png" width="48" height="48" alt="Zephyr Watch" />
       </a>
       <br>Zephyr Watch
     </td>
@@ -44,7 +44,6 @@
 </br></br>
 
 🔥 From [Nico](https://github.com/nico-vrn)  
-![visitors](https://visitor-badge.glitch.me/badge?page_id=nico-vrn)  
 [![GitHub: @nico-vrn](https://img.shields.io/github/followers/nico-vrn?label=follow&style=social)](https://github.com/nico-vrn)
 
 <!---
