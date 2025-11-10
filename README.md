@@ -22,7 +22,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://nlefranc.com">
-        <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="48" height="48" alt="Website" />
+        <img src="https://www.nlefranc.com/logo.png" width="48" height="48" alt="Website" />
       </a>
       <br>nlefranc.com
     </td>
